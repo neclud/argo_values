@@ -1,7 +1,7 @@
 # Default values for app1.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-
+appname: backend
 replicaCount: 1
 
 image:
